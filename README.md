@@ -1,4 +1,4 @@
-Mapty
+MAPTY
 
 
 Mapty is a map application made with Vanilla JavaScript to store workouts like running and cycling.
@@ -7,7 +7,11 @@ The user can choose any point on the map and choose between running or cycling. 
 
 Project was made with:
 HTML
+
 CSS
+
 Vanilla JavaScript
+
 Leaflet API
+
 Author : Sachin Kumar
